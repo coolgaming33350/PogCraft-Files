@@ -1,0 +1,50 @@
+[
+  {
+    "uuid": "00000000-0000-0000-0009-01f45d66ee6b",
+    "name": ".I_love_all_pets",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "00000000-0000-0000-0009-01f4ae327a40",
+    "name": ".coolgaming33350",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f8db9c48-b399-4278-845b-943e9f7b8f1d",
+    "name": "nicegamer1233",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "224d2e5d-ed7a-3e43-996a-267a463a8670",
+    "name": "coolgaming33350",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "fc700cc1-7266-4381-9870-9f2768434ead",
+    "name": "tux_cow1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "015e04cc-c005-4d92-9f79-2b119c8c657e",
+    "name": "coolgaming33350",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c19680a1-e2c3-3ef3-b716-fde7bbf12f00",
+    "name": "nicegamer1233",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "2a05c48e-2dce-36b4-97aa-4b2381519e1c",
+    "name": "tux_cow1",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
